@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MVVM-Simple-Sample-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\MVVM-Simple-Sample-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\MVVM-Simple-Sample-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\food_item_row.xml",
+        "source": "D:\\MVVM-Simple-Sample-master\\app\\src\\main\\res\\layout\\food_item_row.xml"
+    }
+]

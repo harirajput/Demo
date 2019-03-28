@@ -1,0 +1,4 @@
+# Referenced at D:\MVVM-Simple-Sample-master\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:15
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\MVVM-Simple-Sample-master\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:15
+-keep class mvvm.simple.sample.core.App { <init>(); }
